@@ -34,7 +34,7 @@ Trains a C++ neural network and does inference. Source codes are in [ProphetServ
 
 ### Undergraduate Thesis
 
-Ricardo Pieper. **Anaerobic Digester Analytics: Towards a Smart Software as a Service**. *Sociedade Educacional Três de Maio (SETREM)*. Undergraduate Thesis, 2016.
+[PDF](http://larcc.setrem.com.br/wp-content/uploads/2017/03/PIEPER_TCC_2015.pdf) Ricardo Pieper. **Anaerobic Digester Analytics: Towards a Smart Software as a Service**. *Sociedade Educacional Três de Maio (SETREM)*. Undergraduate Thesis, 2016.
 
 ```bibtex
 @misc{larcc:pieper:TCC:16,
