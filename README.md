@@ -33,3 +33,20 @@ Trains a C++ neural network and does inference. Source codes are in [ProphetServ
 ```
 
 ### Undergraduate Thesis
+
+Ricardo Pieper. **Anaerobic Digester Analytics: Towards a Smart Software as a Service**. *Sociedade Educacional Três de Maio (SETREM)*. Undergraduate Thesis, 2016.
+
+```bibtex
+@misc{larcc:pieper:TCC:16,
+    author={Ricardo Pieper},
+    title={{Anaerobic Digester Analytics: Towards a Smart Software as a Service}},
+    numpages={122},
+    school={Sociedade Educacional Três de Maio (SETREM)},
+    address={Três de Maio, RS, Brazil},
+    month={August},
+    year={2016},
+    howpublished={Undergraduate Thesis},
+    url={http://larcc.setrem.com.br/wp-content/uploads/2017/03/PIEPER_TCC_2015.pdf},
+    abstract={The machine learning field is becoming even more important in the last years. The ever-increasing amount of data challenges the current available technology. Meanwhile, anaerobic digesters represent a good alternative for renewable energy production in Brazil. However, performing efficient and accurate predictions/analytics while completely abstracting machine learning details from end-users might not be a simple task to achieve. Usually, such tools are made for a specific scenario and may not fit with particular and general needs in other projects. The thesis goal was to create a SaaS on biogas data analytics by using a neural network. Therefore, an open source, cloud-enabled SaaS (Software as a Service) was developed and deployed in LARCC (Laboratory of Advanced Researches for Cloud Computing) at SETREM. The results have shown the neural network's accuracy is not significantly worse than a state-of-the-art implementation, and its training speed is faster. However, the algorithm is yet to be tested using real world biogas data. The user interface demonstrates to be intuitive, and the predictions with synthetic data were accurate when the training algorithm is provided with good quality data. Also, the file processing and network training time were good enough under traditional workload conditions.},
+}
+```
