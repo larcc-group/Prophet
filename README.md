@@ -3,7 +3,7 @@ It is Biodigestor Data Analytics prototype with support to distributed data base
 
 ## Prophet Web
 
-Web-base GUI interface for Biodigestor Data Analytics. Source codes are in [ProphetWeb](https://github.com/larcc-group/Prophet/tree/master/ProphetWeb).
+Web-bases GUI interface for Biodigestor Data Analytics. Source codes are in [ProphetWeb](https://github.com/larcc-group/Prophet/tree/master/ProphetWeb).
 
 ## Prophet Service
 
