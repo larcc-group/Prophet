@@ -1,5 +1,5 @@
 # Prophet
-It is a Software as a Service (SaaS) Biodigestor Data Analytics prototype with support to a distributed database in the cloud.
+It is a Software as a Service (SaaS) Biodigestor Data Analytics prototype with support to a distributed database in the cloud. The goal is to provide an intuitive user interface to upload biodigester data (from sensor like temperature) and predict the Biogas production.
 
 ## Prophet Web
 
