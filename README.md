@@ -1,9 +1,9 @@
 # Prophet
-It is a Software as a Service (SaaS) Biodigestor Data Analytics prototype with support to distributed data base in the cloud.
+It is a Software as a Service (SaaS) Biodigestor Data Analytics prototype with support to a distributed database in the cloud.
 
 ## Prophet Web
 
-Web-bases GUI interface for Biodigestor Data Analytics. Source codes are in [ProphetWeb](https://github.com/larcc-group/Prophet/tree/master/ProphetWeb).
+Web-based GUI interface for Biodigestor Data Analytics. Source codes are in [ProphetWeb](https://github.com/larcc-group/Prophet/tree/master/ProphetWeb).
 
 ## Prophet Service
 
